@@ -1,4 +1,4 @@
-# ScriptSQL-Sakila-MySQL
+# Script-SQL-Sakila-MySQL
 ## Ejercitación Académica de SQL con Base de Datos Sakila
 
 Este repositorio contiene una serie de scripts SQL que corresponden a ejercitación académica y tienen como objetivo demostrar habilidades con las sentencias SQL. Esta ejercitación se realizó en SQL utilizando la base de datos Sakila en MySQL Workbench.
